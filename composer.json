@@ -11,10 +11,10 @@
   "name" : "vaibhavpandeyvpz/doctrine-datatables",
   "require": {
     "php": ">=5.3.0",
-    "doctrine/dbal": "~2.5"
+    "doctrine/dbal": "~2.5|^3.0"
   },
   "require-dev": {
-    "doctrine/orm": "~2.5"
+    "doctrine/orm": "~2.5|^3.0"
   },
   "type": "library"
 }
